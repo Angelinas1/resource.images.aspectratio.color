@@ -1,2 +1,2 @@
 # resource.images.aspectratio.color
-Color flags for Kodi - AspectRatio
+Color media flags for Kodi - AspectRatio
